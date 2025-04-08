@@ -11,7 +11,7 @@ export default function ProjectsPage() {
           id: 1,
           title: "Todo Application",
           description: "A feature-rich task management application with user authentication, task categorization, and deadline reminders.",
-          image: "/src/assets/images/todo.PNG ", // ✅ Updated image path
+          image: "https://i.ibb.co/nNNkwdTZ/todo.png", // ✅ Updated image path
           tags: ["React", "Node.js", "MongoDB"],
           tagColors: [
             "bg-blue-100 text-blue-800",
@@ -38,7 +38,7 @@ export default function ProjectsPage() {
         id: 3,
         title: "Maharaja Palace",
         description: "An elegant website for a luxury heritage hotel with virtual tours, booking system, and culinary experiences.",
-        image: "/src/assets/images/maharahja.png",
+        image: "https://i.ibb.co/HLT9W9Q7/maharahja.png",
         
 
         tags: ["React", "Tailwind CSS", "Firebase"],
